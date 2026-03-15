@@ -11,8 +11,8 @@
 
 - 🔭 Currently working as a **Data Engineer**
 - 🎓 MSc in **Artificial Intelligence & Robotics**
-- 🌱 Exploring **LLMs, MLOps, and real-time data pipelines**
-- 👯 Open to collaborate on **AI/ML projects and open-source**
+- 🌱 Exploring **LLMs, MLOps, and real-time scalable data pipelines**
+- 👯 Open to collaborate on **Data Projects, AI/ML projects and open-source**
 - 💬 Ask me about **Python, PySpark, AWS, Databricks, or AI**
 - 😄 He/Him
 
