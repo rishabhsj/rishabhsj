@@ -14,7 +14,7 @@
 - 🌱 Exploring **LLMs, MLOps, and real-time scalable data pipelines**
 - 👯 Open to collaborate on **Data Projects, AI/ML projects and open-source**
 - 💬 Ask me about **Python, PySpark, AWS, Databricks, or AI**
-- 😄 He/Him
+
 
 ---
 
